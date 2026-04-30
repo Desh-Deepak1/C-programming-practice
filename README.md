@@ -5,7 +5,6 @@ This repository contains a collection of C programs written to build foundationa
 ## 📁 Repository Structure
 
 The files in this repository can be broadly categorized into three main sections:
-
 ### 1. Basic Logic & Mathematics
 Programs designed to understand basic syntax, conditional statements, and mathematical operations in C.
 * `Addition2number.c` - Calculates the sum of two numbers.
